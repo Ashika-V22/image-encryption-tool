@@ -1,6 +1,6 @@
 # Image Encryption Tool (Streamlit)
 
-**Live site:https://encryption-tool.streamlit.app/**
+**Live site : https://encryption-tool.streamlit.app/**
 
 A live image encryption tool supporting:
 - Pixel shuffle (key-based reversible permutation)
